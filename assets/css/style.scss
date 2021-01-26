@@ -3,6 +3,22 @@
 
 @import "{{ site.theme }}";
 
+/* Changes from Primer theme */
+
 .markdown-body h1 {
   border-bottom: 5px solid #374785
+}
+
+/* Additional CSS */
+
+.box-hero {
+  clear: both;
+  background: #45baa8;
+  color: #ffffff;
+  padding: 48px 80px;
+  margin-bottom: 32px;
+}
+
+.box-hero p {
+  font-size: 2em;
 }
