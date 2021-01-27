@@ -14,10 +14,14 @@
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
       
-      <div class="box-hero">
-        <p>{{ page.subtitle }}</p>
-        <p>{{ page.desc }}</p>
-        <img src="{{ "/assets/img/" | append: page.hero }}">
+      <div class="my-flex my-hero-style">
+        <div class="my-flex-hero-text">
+          <p>{{ page.subtitle }}</p>
+          <p>{{ page.desc }}</p>
+        </div>
+        <div class="my-flex-hero-img">
+          <img src="{{ "/assets/img/" | append: page.hero }}">
+        </div>
       </div>
 
       {{ content }}
