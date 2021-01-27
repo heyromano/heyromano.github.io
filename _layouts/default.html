@@ -17,7 +17,7 @@
       <div class="box-hero">
         <p>{{ page.subtitle }}</p>
         <p>{{ page.desc }}</p>
-        <img src="{{ "/assets/img/" page.hero }}">
+        <img src="{{ "/assets/img/" | append: page.hero }}">
       </div>
 
       {{ content }}
