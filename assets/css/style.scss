@@ -15,6 +15,12 @@ a {
 
 /* Additional CSS */
 
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 .box-hero {
   clear: both;
   background: #45baa8;
@@ -33,4 +39,14 @@ a {
   width: 100%;
   max-width: 300px;
   height: auto;
+}
+
+.wrapper {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+/* All items to be 100% width, via flex-basis */
+.wrapper > * {
+  flex: 1 100%;
 }
