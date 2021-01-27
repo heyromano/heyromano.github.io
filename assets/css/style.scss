@@ -15,25 +15,6 @@ a {
 
 /* Additional CSS */
 
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.box-hero {
-  clear: both;
-  background: #45baa8;
-  color: #ffffff;
-  padding: 48px 80px;
-  margin-bottom: 32px;
-}
-
-.box-hero p {
-  font-family: Georgia, serif;
-  font-size: 2em;
-}
-
 .box-hero img {
   float: right;
   margin-left: 32px;
@@ -42,12 +23,24 @@ a {
   height: auto;
 }
 
-.wrapper {
+/* Flexbox layout context */
+.my-flex {
   display: flex;
   flex-flow: row wrap;
 }
 
-/* All items to be 100% width, via flex-basis */
-.wrapper > * {
-  flex: 1 100%;
+/* Flexbox layout for hero */
+.my-flex-hero-text {
+  flex: 1;
+}
+.my-flex-hero-img {
+  flex: 0 0 300px;
+}
+.my-hero-style {
+  background: #45baa8;
+  color: #ffffff;
+  padding: 48px 80px;
+  margin-bottom: 32px;
+  font-family: Georgia, serif;
+  font-size: 2em;
 }
