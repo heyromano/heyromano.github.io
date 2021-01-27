@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /
 subtitle: Hi, I'm Erika,
 desc: Assistant Professor of Biology and Environmental Studies. I investigate the biodiversity of mutualisms and their adaptation in response to anthropogenic stressors in <b>coral reef ecosystems</b> and <b>agroecological systems</b>.
 hero: profile.jpg
