@@ -30,9 +30,7 @@ I am a cognitive scientist with interdisciplinary research interests at the nexu
   <div class="my-edu-logo"><img src="/assets/img/emory.jpg"></div>
   <div>
     <b>Postdoctoral Fellow</b><br>
-    Emory-Tibet Science Initiative<br>
-    <a href="https://www.emory.edu" target="_blank">Emory University</a><br>
-    Advisors: Geshe Lobsang Tenzin Negi, Ph.D. and Carol M. Worthman, Ph.D.
+    Emory University
   </div>
 </div>
 
@@ -40,8 +38,8 @@ I am a cognitive scientist with interdisciplinary research interests at the nexu
   <div class="my-edu-logo"><img src="/assets/img/ucmerced.png"></div>
   <div>
     <b>Ph.D. Cognitive and Information Sciences</b><br>
-    <a href="https://www.ucmerced.edu" target="_blank">University of California, Merced</a><br>
-    Advisor: Michael J. Spivey, Ph.D.
+    <b>M.S. Social and Cognitive Sciences</b><br>
+    University of California, Merced
   </div>
 </div>
 
@@ -49,7 +47,7 @@ I am a cognitive scientist with interdisciplinary research interests at the nexu
   <div class="my-edu-logo"><img src="/assets/img/nyu.png"></div>
   <div>
     <b>M.A. Psychology</b><br>
-    <a href="https://www.nyu.edu" target="_blank">New York University</a><br>
+    New York University
   </div>
 </div>
 
@@ -58,6 +56,6 @@ I am a cognitive scientist with interdisciplinary research interests at the nexu
   <div>
     <b>B.S. Computer Science</b><br>
     <b>B.A. Philosophy</b><br>
-    <a href="https://www.stevens.edu" target="_blank">Stevens Institute of Technology</a><br>
+    Stevens Institute of Technology
   </div>
 </div>
