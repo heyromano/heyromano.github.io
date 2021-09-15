@@ -32,7 +32,7 @@ I am a cognitive scientist with interdisciplinary research interests at the nexu
     <b>Postdoctoral Fellow</b><br>
     Emory-Tibet Science Initiative<br>
     <a href="https://www.emory.edu" target="_blank">Emory University</a><br>
-    Advisor: Geshe Lobsang Tenzin Negi, Ph.D. and Carol M. Worthman, Ph.D.
+    Advisors: Geshe Lobsang Tenzin Negi, Ph.D. and Carol M. Worthman, Ph.D.
   </div>
 </div>
 
@@ -42,6 +42,14 @@ I am a cognitive scientist with interdisciplinary research interests at the nexu
     <b>Ph.D. Cognitive and Information Sciences</b><br>
     <a href="https://www.ucmerced.edu" target="_blank">University of California, Merced</a><br>
     Advisor: Michael J. Spivey, Ph.D.
+  </div>
+</div>
+
+<div class="my-flex-edu">
+  <div class="my-edu-logo"><img src="/assets/img/nyu.png"></div>
+  <div>
+    <b>M.A. Psychology</b><br>
+    <a href="https://www.nyu.edu" target="_blank">New York University</a><br>
   </div>
 </div>
 
