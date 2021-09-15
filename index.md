@@ -27,7 +27,7 @@ I am a cognitive scientist with interdisciplinary research interests at the nexu
 # Education
 
 <div class="my-flex-edu">
-  <div class="my-edu-logo"><img src="/assets/img/emory.jpg"></div>
+  <div class="my-edu-logo"><img src="/assets/img/emory.png"></div>
   <div>
     <b>Postdoctoral Fellow</b><br>
     Emory University
