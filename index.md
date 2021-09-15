@@ -13,7 +13,7 @@ layout: default
         <h2>Research Scholar</h2>
         <h2>New College of Florida</h2>
       </div>
-      <p><a href="mailto:mromano@ncf.edu">E-mail</a></p>
+      <p><a href="mailto:mromano@ncf.edu">E-mail</a> </p>
     </div>
   </div>
 </div>
