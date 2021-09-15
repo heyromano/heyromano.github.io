@@ -20,9 +20,9 @@ layout: default
 
 # Prosocially Distributed Cognition
 
-<img src="/assets/img/prosocial.jpg">
-
 I am a cognitive scientist with interdisciplinary research interests at the nexus of embodied cognition, prosocial behavior, and human-computer interaction (HCI). My research explores how situational micro-interventions in HCI can promote prosocial behavior in online social spaces (e.g., social media, discussion forums, comment sections).
+
+<img src="/assets/img/prosocial.jpg">
 
 # Education
 
