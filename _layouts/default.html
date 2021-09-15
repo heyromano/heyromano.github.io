@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="preconnect" href="https://fonts.gstatic.com"> 
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Work+Sans:wght@300;700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      <header>
+        <nav>
+          <div class="my-nav">
+            <div class="my-nav-logo">
+              <div><img src="/assets/img/logo.jpg"></div>
+              <div><h1>Erika Díaz-Almeyda</h1></div>
+            </div>
+            <div class="my-nav-links">
+              <ul>
+                <li {% if page.url == "/" %}class="my-nav-current"{% endif %}><a href="/">About</a></li>
+                <li {% if page.url == "/research/" %}class="my-nav-current"{% endif %}><a href="/research/">Research</a></li>
+                <li><a href="https://scholar.google.com/citations?user=wlIHaV8AAAAJ" target="_blank">Publications</a></li>
+                <li {% if page.url == "/teaching/" %}class="my-nav-current"{% endif %}><a href="/teaching/">Teaching</a></li>
+                <li {% if page.url == "/people/" %}class="my-nav-current"{% endif %}><a href="/people/">People</a></li>
+              </ul>
+          </div>
+          </div>
+        </nav>
+      </header>
+
+      {{ content }}
+      
+      <footer>
+        <div class="my-footer my-pad-top">
+          <p>© 2021 Erika Díaz-Almeyda</p>
+        </div>
+      </footer>
+    </div>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>
