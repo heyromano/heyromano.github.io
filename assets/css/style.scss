@@ -114,7 +114,7 @@ a:hover {
 }
 
 .my-hero h1 {
-    padding: 2em 0 0 0;
+    padding: 1em 0 0 0;
     border-left: 0;
 }
 
@@ -231,6 +231,10 @@ img {
     
     .my-col-40 {
         flex-basis: 38%;
+    }
+    
+    .my-hero h1 {
+        padding: 0;
     }
     
     .my-hero-align {
