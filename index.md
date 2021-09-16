@@ -22,8 +22,6 @@ layout: default
 
 I am a cognitive scientist with interdisciplinary research interests in embodied cognition, prosocial behavior, and human-computer interaction (HCI). My projects are embedded in theories of embodied cognition, particularly distributed cognition, to enable a common research-design and modeling language for integrating across diverse units of analysis and levels of explanation in interdisciplinary research.
 
-My research program engages undergraduate researchers as junior colleagues. The interdisciplinary nature of my work appeals to students across majors, is accessible for students to generate and investigate their own research questions, and my topics facilitate diverse student goals, from pursuing graduate school to entering industry.
-
 # Prosocially Distributed Cognition
 
 Within the framework of distributed cognition, I study how situational micro-interventions in HCI can promote prosocial behavior in online social spaces (e.g., social media, discussion forums, comment sections).
