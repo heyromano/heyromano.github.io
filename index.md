@@ -34,6 +34,12 @@ Together with my colleagues in biology, environmental studies, and Mayan culture
 
 <img src="/assets/img/soil.jpg">
 
+# Dialogue-Based Learning
+
+With my colleagues in anthropology, biology, and Tibetan Buddhist studies, I am co-developing a pedagogical framework that leverages existing epistemological pluralism in the classroom to teach across ways of knowing.
+
+<img src="/assets/img/knowledge.jpg">
+
 # Education
 
 <div class="my-flex-edu">
