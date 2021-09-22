@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="my-hero my-bg-color-profile">
-  <img src="/assets/img/profile.jpg">
+  <img src="/assets/img/profile.jpg" class="my-profile">
   <h1>Michael Romano, Ph.D.</h1>
   <h2>Research Scholar</h2>
   <h2>New College of Florida</h2>
