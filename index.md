@@ -24,6 +24,7 @@ I am a cognitive scientist with interdisciplinary research interests in embodied
   <div class="my-center-text">
     <div class="my-col-33">
       <img src="/assets/img/prosocial.jpg">
+      <h4>Prosocially Distributed Cognition</h4>
     </div>
     <div class="my-col-33">
       <img src="/assets/img/soil.jpg">
