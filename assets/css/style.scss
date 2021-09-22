@@ -67,8 +67,17 @@ a:hover {
 
 /* Hero */
 
-.my-profile img {
+.my-hero-profile {
+    align-items: center;
+}
+
+.my-hero-profile img {
     border-radius: 50%;
+}
+
+.my-hero-profile h1 {
+    padding-left: 0;
+    border-left: 0;
 }
 
 
