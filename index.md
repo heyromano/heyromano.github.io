@@ -20,7 +20,7 @@ I am a cognitive scientist with interdisciplinary research interests in embodied
 
 # Research Projects
 
-<div class="my-flex">
+<div class="my-flex my-center-text">
   <div class="my-col-33">
     <img src="/assets/img/prosocial.jpg">
     <h4>Prosocially Distributed Cognition</h4>
