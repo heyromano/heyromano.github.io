@@ -57,34 +57,34 @@ I am a cognitive scientist with interdisciplinary research interests in embodied
 # Education
 
 <div class="my-flex">
-  <div class="my-col-25">
+  <div class="my-col-10">
     <img src="/assets/img/emory.png">
   </div>
-  <div class="my-col-75">
+  <div class="my-col-90">
     <b>Postdoctoral Fellow</b><br>
     Emory University
   </div>
   
-  <div class="my-col-25">
+  <div class="my-col-10">
     <img src="/assets/img/ucmerced.png">
   </div>
-  <div class="my-col-75">
+  <div class="my-col-90">
     <b>Ph.D. Cognitive and Information Sciences</b><br>
     University of California, Merced
   </div>
   
-  <div class="my-col-25">
+  <div class="my-col-10">
     <img src="/assets/img/nyu.png">
   </div>
-  <div class="my-col-75">
+  <div class="my-col-90">
     <b>M.A. Psychology</b><br>
     New York University
   </div>
   
-  <div class="my-col-25">
+  <div class="my-col-10">
     <img src="/assets/img/stevens.png">
   </div>
-  <div class="my-col-75">
+  <div class="my-col-90">
     <b>B.S. Computer Science</b><br>
     <b>B.A. Philosophy</b><br>
     Stevens Institute of Technology
