@@ -44,7 +44,7 @@ I am a cognitive scientist with interdisciplinary research interests in embodied
 </div>
 <div class="my-flex">
   <div class="my-col-33">
-    Within the framework of distributed cognition, I study how situational micro-interventions in HCI can promote prosocial behavior in online social spaces (e.g., social media, discussion forums, comment sections).
+    Using distributed cognition as a theoretical framework, I study how situational micro-interventions in HCI can promote prosocial behavior in online social spaces (e.g., social media, discussion forums, comment sections).
   </div>
   <div class="my-col-33">
     Together with my colleagues in biology, environmental studies, and Mayan culture and language, I am co-developing a framework in embodied ethnoecology to document and model causal reasoning in traditional ecological knowledge.
