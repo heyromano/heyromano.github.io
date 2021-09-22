@@ -24,7 +24,7 @@ I am a cognitive scientist with interdisciplinary research interests in embodied
   <div class="my-col-33">
     <img src="/assets/img/prosocial.jpg">
     <h4>Prosocially Distributed Cognition</h4>
-    <p>I study how situational micro-interventions in HCI can promote prosocial behavior in online social spaces (e.g., social media, discussion forums, comment sections).</p>
+    <p>Within the framework of distributed cognition, I study how situational micro-interventions in HCI can promote prosocial behavior in online social spaces (e.g., social media, discussion forums, comment sections).</p>
   </div>
   <div class="my-col-33">
     <img src="/assets/img/soil.jpg">
