@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<div class="my-flex my-hero">
-  <div class="my-col-25 my-profile">
+<div class="my-flex my-hero-profile">
+  <div class="my-col-25">
     <img src="/assets/img/profile.jpg">
   </div>
-  <div class="my-col-75 my-hero-text">
+  <div class="my-col-75">
     <h1>Michael Romano, Ph.D.</h1>
     <h2>Research Scholar</h2>
     <h2>New College of Florida</h2>
