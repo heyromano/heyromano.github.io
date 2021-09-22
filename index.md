@@ -20,22 +20,34 @@ I am a cognitive scientist with interdisciplinary research interests in embodied
 
 # Research Projects
 
-<div class="my-flex my-center-text">
+<div class="my-flex">
   <div class="my-col-33">
-    <img src="/assets/img/prosocial.jpg">
-    <h4>Prosocially Distributed Cognition</h4>
-    <p>Within the framework of distributed cognition, I study how situational micro-interventions in HCI can promote prosocial behavior in online social spaces (e.g., social media, discussion forums, comment sections).</p>
+    <div class="my-col-100 my-center-text">
+      <img src="/assets/img/prosocial.jpg">
+      <h4>Prosocially Distributed Cognition</h4>
+    </div>
+    <div class="my-col-100">
+      <p>Within the framework of distributed cognition, I study how situational micro-interventions in HCI can promote prosocial behavior in online social spaces (e.g., social media, discussion forums, comment sections).</p>
+    </div>
   </div>
   <div class="my-col-33">
-    <img src="/assets/img/soil.jpg">
-    <h4>Embodied Ethnoecology</h4>
-    <p>Together with my colleagues in biology, environmental studies, and Mayan culture and language, I am co-developing a framework in embodied ethnoecology to document and model causal reasoning in traditional ecological knowledge.</p>
+    <div class="my-col-100 my-center-text">
+      <img src="/assets/img/soil.jpg">
+      <h4>Embodied Ethnoecology</h4>
+    </div>
+    <div class="my-col-100">
+      <p>Together with my colleagues in biology, environmental studies, and Mayan culture and language, I am co-developing a framework in embodied ethnoecology to document and model causal reasoning in traditional ecological knowledge.</p>
+    </div>
   </div>
   <div class="my-col-33">
-    <img src="/assets/img/knowledge.jpg">
-    <h4>Dialogue-Based Learning</h4>
-    <p>With my colleagues in anthropology, biology, and Tibetan Buddhist studies, I am co-developing a pedagogical framework that leverages existing epistemological pluralism in the classroom to teach across ways of knowing.
+    <div class="my-col-100 my-center-text">
+      <img src="/assets/img/knowledge.jpg">
+      <h4>Dialogue-Based Learning</h4>
+    </div>
+    <div class="my-col-100">
+      <p>With my colleagues in anthropology, biology, and Tibetan Buddhist studies, I am co-developing a pedagogical framework that leverages existing epistemological pluralism in the classroom to teach across ways of knowing.
 </p>
+    </div>
   </div>
 </div>
 
