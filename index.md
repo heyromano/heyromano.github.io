@@ -2,12 +2,14 @@
 layout: default
 ---
 
-<div class="my-hero-profile">
-  <img src="/assets/img/profile.jpg">
-  <h1>Michael Romano, Ph.D.</h1>
-  <h2>Research Scholar</h2>
-  <h2>New College of Florida</h2>
-  <p><a href="mailto:mromano@ncf.edu">E-mail</a></p>
+<div class="my-flex my-hero-profile">
+  <div class="my-col-50">
+    <img src="/assets/img/profile.jpg">
+    <h1>Michael Romano, Ph.D.</h1>
+    <h2>Research Scholar</h2>
+    <h2>New College of Florida</h2>
+    <p><a href="mailto:mromano@ncf.edu">E-mail</a></p>
+  </div>
 </div>
 
 <div class="my-hero-align my-pad-top">
