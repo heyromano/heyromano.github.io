@@ -125,8 +125,8 @@ img {
 /* Responsive */
 
 @media all and (min-width: 768px) {
-    .my-col-90 {
-        flex-basis: 88%;
+    .my-col-80 {
+        flex-basis: 78%;
     }
     
     .my-col-75 {
@@ -149,8 +149,8 @@ img {
         flex-basis: 23%;
     }
     
-    .my-col-10 {
-        flex-basis: 8%;
+    .my-col-20 {
+        flex-basis: 18%;
     }
     
     .my-hero-profile {
