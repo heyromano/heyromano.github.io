@@ -91,7 +91,7 @@ a:hover {
 }
 
 .my-hero-profile p {
-    margin-top: 1em;
+    margin: 1em;
 }
 
 /* Footer */
@@ -123,4 +123,9 @@ a:hover {
     .my-col-25 {
         flex-basis: 23%;
     }
+    
+    .my-hero-profile {
+        text-align: left;
+    }
+
 }
