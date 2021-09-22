@@ -75,7 +75,7 @@ img {
     justify-content: space-between;
 }
 
-.my-col-100, .my-col-75, .my-col-67, .my-col-50, .my-col-33, .my-col-25 {
+.my-col-100, .my-col-90, .my-col-75, .my-col-67, .my-col-50, .my-col-33, .my-col-25, .my-col-10 {
     flex-basis: 100%;
 }
 
@@ -125,6 +125,10 @@ img {
 /* Responsive */
 
 @media all and (min-width: 768px) {
+    .my-col-90 {
+        flex-basis: 88%;
+    }
+    
     .my-col-75 {
         flex-basis: 73%;
     }
@@ -143,6 +147,10 @@ img {
     
     .my-col-25 {
         flex-basis: 23%;
+    }
+    
+    .my-col-10 {
+        flex-basis: 8%;
     }
     
     .my-hero-profile {
