@@ -53,34 +53,35 @@ I am a cognitive scientist with interdisciplinary research interests in embodied
 
 # Education
 
-<div class="my-flex-edu">
-  <div class="my-edu-logo"><img src="/assets/img/emory.png"></div>
-  <div>
+<div class="my-flex">
+  <div class="my-col-25">
+    <img src="/assets/img/emory.png">
+  </div>
+  <div class="my-col-75">
     <b>Postdoctoral Fellow</b><br>
     Emory University
   </div>
-</div>
-
-<div class="my-flex-edu">
-  <div class="my-edu-logo"><img src="/assets/img/ucmerced.png"></div>
-  <div>
+  
+  <div class="my-col-25">
+    <img src="/assets/img/ucmerced.png">
+  </div>
+  <div class="my-col-75">
     <b>Ph.D. Cognitive and Information Sciences</b><br>
-    <b>M.S. Social and Cognitive Sciences</b><br>
     University of California, Merced
   </div>
-</div>
-
-<div class="my-flex-edu">
-  <div class="my-edu-logo"><img src="/assets/img/nyu.png"></div>
-  <div>
+  
+  <div class="my-col-25">
+    <img src="/assets/img/nyu.png">
+  </div>
+  <div class="my-col-75">
     <b>M.A. Psychology</b><br>
     New York University
   </div>
-</div>
-
-<div class="my-flex-edu">
-  <div class="my-edu-logo"><img src="/assets/img/stevens.png"></div>
-  <div>
+  
+  <div class="my-col-25">
+    <img src="/assets/img/stevens.png">
+  </div>
+  <div class="my-col-75">
     <b>B.S. Computer Science</b><br>
     <b>B.A. Philosophy</b><br>
     Stevens Institute of Technology
