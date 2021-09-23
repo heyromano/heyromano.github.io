@@ -16,7 +16,12 @@ layout: default
 
 # Hi, I'm Michael!
 
-I am a cognitive scientist with interdisciplinary research interests in embodied cognition, prosocial behavior, and human-computer interaction (HCI). My projects are embedded in theories of embodied cognition, particularly distributed cognition, to enable a common research-design and modeling language for integrating across diverse units of analysis and levels of explanation in interdisciplinary research.
+I am a cognitive scientist with research interests in embodied social cognition and applied ethics. My interdisciplinary research spans modes of inquiry in philosophy, ethnography, experimental psychology, and cognitive modeling. I use distributed cognition as a theoretical approach for integrating across multiple units of analysis and levels of explanation.
+
+Questions my research explores include:
+* How can we promote prosocial behavior in shared online spaces (e.g., social media, discussion forums, comment sections)?
+* How can we document causal reasoning in traditional knowledge systems for two-way exchange (i.e., to preserve traditional knowledge and to transfer expertise to new domains)?
+* How can attending to epistemological pluralism in the classroom increase diversity and inclusion in higher education?
 
 # Research Projects
 
