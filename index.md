@@ -48,7 +48,7 @@ I am a cognitive scientist with interdisciplinary research interests in embodied
 
 <div class="my-flex">
   <div class="my-col-20">
-    <img src="/assets/img/emory.png">
+    <img src="/assets/img/logo-emory.png">
   </div>
   <div class="my-col-80">
     <b>Postdoctoral Fellow</b><br>
@@ -56,7 +56,7 @@ I am a cognitive scientist with interdisciplinary research interests in embodied
   </div>
   
   <div class="my-col-20">
-    <img src="/assets/img/ucmerced.png">
+    <img src="/assets/img/logo-ucmerced.png">
   </div>
   <div class="my-col-80">
     <b>Ph.D. Cognitive and Information Sciences</b><br>
@@ -64,7 +64,7 @@ I am a cognitive scientist with interdisciplinary research interests in embodied
   </div>
   
   <div class="my-col-20">
-    <img src="/assets/img/nyu.png">
+    <img src="/assets/img/logo-nyu.png">
   </div>
   <div class="my-col-80">
     <b>M.A. Psychology</b><br>
@@ -72,7 +72,7 @@ I am a cognitive scientist with interdisciplinary research interests in embodied
   </div>
   
   <div class="my-col-20">
-    <img src="/assets/img/stevens.png">
+    <img src="/assets/img/logo-stevens.png">
   </div>
   <div class="my-col-80">
     <b>B.S. Computer Science</b><br>
