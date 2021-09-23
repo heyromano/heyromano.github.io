@@ -76,6 +76,7 @@ img {
 }
 
 .my-flex-edu {
+    flex-flow: row nowrap;
     justify-content: flex-start;
     align-items: center;
 }
