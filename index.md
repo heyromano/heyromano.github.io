@@ -46,7 +46,7 @@ I am a cognitive scientist with interdisciplinary research interests in embodied
 
 # Education
 
-<div class="my-flex my-flex-justify-start">
+<div class="my-flex my-flex-edu">
   <div class="my-edu-logo">
     <img src="/assets/img/logo-emory.png">
   </div>
@@ -55,7 +55,7 @@ I am a cognitive scientist with interdisciplinary research interests in embodied
     Emory University
   </div>
 </div>
-<div class="my-flex my-flex-justify-start">
+<div class="my-flex my-flex-edu">
   <div class="my-edu-logo">
     <img src="/assets/img/logo-ucmerced.png">
   </div>
@@ -64,7 +64,7 @@ I am a cognitive scientist with interdisciplinary research interests in embodied
     University of California, Merced
   </div>
 </div>
-<div class="my-flex my-flex-justify-start">
+<div class="my-flex my-flex-edu">
   <div class="my-edu-logo">
     <img src="/assets/img/logo-nyu.png">
   </div>
@@ -73,7 +73,7 @@ I am a cognitive scientist with interdisciplinary research interests in embodied
     New York University
   </div>
 </div>
-<div class="my-flex my-flex-justify-start">
+<div class="my-flex my-flex-edu">
   <div class="my-edu-logo">
     <img src="/assets/img/logo-stevens.png">
   </div>
