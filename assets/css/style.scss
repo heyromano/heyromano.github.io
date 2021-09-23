@@ -75,6 +75,10 @@ img {
     justify-content: space-between;
 }
 
+.my-flex-justify-start {
+    justify-content: flex-start;
+}
+
 .my-col-100, .my-col-90, .my-col-75, .my-col-67, .my-col-50, .my-col-33, .my-col-25, .my-col-10 {
     flex-basis: 100%;
 }
