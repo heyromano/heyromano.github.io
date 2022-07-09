@@ -73,7 +73,6 @@ img {
 
 .my-col-100, .my-col-75, .my-col-67, .my-col-50, .my-col-33, .my-col-25 {
     flex-basis: 100%;
-    background-color: #ffffff;
 }
 
 /* Nav */
@@ -88,7 +87,7 @@ img {
 }
 
 .my-nav li + li {
-    margin: 0;
+    margin: 0 0 0 1em;
 }
 
 .my-nav a {
@@ -103,6 +102,12 @@ img {
 .my-nav-current a {
     font-weight: 700;
     color: #f63440;
+}
+
+/* Content */
+
+.my-content {
+    background-color: #ffffff;
 }
 
 /* Footer */
