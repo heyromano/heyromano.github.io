@@ -5,6 +5,10 @@
 
 /* Changes to default theme styles */
 
+body {
+    background-color: f4f8fb;
+}
+
 .container-lg {
     max-width: 800px;
 }
@@ -81,6 +85,7 @@ img {
 
 .my-col-100, .my-col-75, .my-col-67, .my-col-50, .my-col-33, .my-col-25 {
     flex-basis: 100%;
+    background-color: #ffffff;
 }
 
 /* Nav */
