@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="my-box my-flex">
+<div class="my-flex">
   <div class="my-col-33 my-img-circle">
     <img src="/assets/img/profile.jpg">
   </div>
