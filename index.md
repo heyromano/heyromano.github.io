@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<div class="my-flex">
-  <div class="my-box">
+<div class="my-flex my-box">
+
     <div class="my-col-33">
       <img src="/assets/img/profile.jpg">
     </div>
@@ -13,7 +13,7 @@ layout: default
       <h2>New College of Florida</h2>
       <p><a href="mailto:mromano@ncf.edu">E-mail</a></p>
     </div>
-  </div>
+
 </div>
 
 # Hi, I'm Michael!
