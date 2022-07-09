@@ -5,6 +5,10 @@
 
 /* Changes to default theme styles */
 
+body {
+    background-color: #13173e;
+}
+
 .container-lg {
     max-width: 800px;
 }
@@ -148,3 +152,8 @@ img {
         flex-basis: 23%;
     }
 }
+@media all and (min-width: 900px) {
+    .px-3 {
+        padding-right: 32px !important;
+        padding-left: 32px !important;
+    }
