@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="my-flex my-hero-profile">
+<div class="my-flex my-box">
   <div class="my-col-33">
     <img src="/assets/img/profile.jpg">
   </div>
