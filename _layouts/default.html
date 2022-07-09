@@ -12,12 +12,26 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
+      <header>
+        <nav>
+          <div class="my-nav">
+            <div><h1>Michael Romano</h1></div>
+            <div class="my-nav-links">
+              <ul>
+                <li {% if page.url == "/" %}class="my-nav-current"{% endif %}><a href="/">About</a></li>
+                <li {% if page.url == "/research/" %}class="my-nav-current"{% endif %}><a href="/research/">Research</a></li>
+                <li {% if page.url == "/teaching/" %}class="my-nav-current"{% endif %}><a href="/teaching/">Teaching</a></li>
+              </ul>
+          </div>
+          </div>
+        </nav>
+      </header>
 
       {{ content }}
       
       <footer>
         <div class="my-footer my-pad-top">
-          <p>© 2021 Michael Romano</p>
+          <p>© 2022 Michael Romano</p>
         </div>
       </footer>
     </div>
