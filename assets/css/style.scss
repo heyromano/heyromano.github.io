@@ -67,6 +67,10 @@ a:hover {
   list-style-type: none;
 }
 
+.my-nav li + li {
+  margin: 0 0 0 1.75em;
+}
+
 .my-nav a:hover {
   text-decoration: none;
 }
