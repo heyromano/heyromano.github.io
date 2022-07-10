@@ -24,3 +24,17 @@
   border-bottom: 0;
   padding: 0;
 }
+
+b {
+  font-weight: 700;
+}
+
+a {
+  color: #0774d1;
+  font-weight: 700;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline solid #06d1ca 5px;
+  text-underline-offeset: -1.25em;
+}
