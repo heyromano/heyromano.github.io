@@ -109,8 +109,11 @@ img {
 
 /* Content */
 
+.my-img-circle {
+    text-align: center;
+}
 .my-img-circle img {
-    max-width: 25%;
+    max-width: 33%;
     height: auto;
     border-radius: 50%;
 }
