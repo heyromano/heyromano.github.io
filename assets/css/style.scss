@@ -79,7 +79,7 @@ img {
 
 .my-nav {
     align-items: center;
-    border-bottom: 3px solid #f4f8fb;
+    border-bottom: 3px solid #adb0b2;
 }
 
 .my-nav ul {
@@ -118,7 +118,7 @@ img {
 /* Footer */
 
 .my-footer {
-    border-top: 3px solid #f4f8fb;
+    border-top: 3px solid #adb0b2;
 }
 
 /* Responsive */
@@ -137,6 +137,11 @@ img {
         background-color: #ffffff;
         box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
         border-radius: 5px;
+    }
+    
+    .my-img-circle img {
+        max-width: 100%;
+        height: auto;
     }
     
     .my-col-75 {
