@@ -79,6 +79,7 @@ img {
 
 .my-nav {
     align-items: center;
+    border-bottom: 3px solid #f4f8fb;
 }
 
 .my-nav ul {
@@ -109,12 +110,15 @@ img {
 /* Content */
 
 .my-img-circle img {
+    max-width: 25%;
+    height: auto;
     border-radius: 50%;
 }
 
 /* Footer */
 
 .my-footer {
+    border-top: 3px solid #f4f8fb;
 }
 
 /* Responsive */
@@ -122,6 +126,10 @@ img {
 @media all and (min-width: 768px) {
     body {
         background-color: #f4f8fb;
+    }
+    
+    .my-nav {
+        border-bottom: 0;
     }
     
     .my-content {
@@ -149,5 +157,9 @@ img {
     
     .my-col-25 {
         flex-basis: 23%;
+    }
+    
+    .my-footer {
+        border-top: 0;
     }
 }
