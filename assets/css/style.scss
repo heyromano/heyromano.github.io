@@ -75,7 +75,7 @@ a:hover {
 }
 
 .my-nav h1 {
-  margin: 0 1.75em 0 0;
+  padding: 0 1.75em 1.75em 0;
 }
 
 .my-nav ul {
@@ -83,6 +83,7 @@ a:hover {
   flex-flow: row wrap;
   justify-content: flex-end;
   margin: 0;
+  padding: 0 0 1.75em 0;
   padding-left: 0;
   list-style-type: none;
 }
