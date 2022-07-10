@@ -79,6 +79,8 @@ img {
 
 .my-nav {
     align-items: center;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
     border-bottom: 3px solid #adb0b2;
 }
 
@@ -113,7 +115,7 @@ img {
     text-align: center;
 }
 .my-img-circle img {
-    max-width: 33%;
+    max-width: 50%;
     height: auto;
     border-radius: 50%;
 }
@@ -132,6 +134,8 @@ img {
     }
     
     .my-nav {
+        padding-bottom: 0;
+        margin-bottom: 0;
         border-bottom: 0;
     }
     
