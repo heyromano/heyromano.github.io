@@ -15,22 +15,20 @@
     <header>
       <nav>
         <div class="top-nav">
-          <div class="container-lg px-3 my-5 markdown-body">
-            <div>
-              <h1>Logo</h1>
-            </div>
-            <input id="menu-toggle" type="checkbox" />
-            <label class='menu-button-container' for="menu-toggle">
-              <div class='menu-button'></div>
-            </label>
-            <ul class="menu">
-              <li {% if page.url == "/" %}class="my-nav-current"{% endif %}><a href="#">Home</a></li>
-              <li {% if page.url == "/research/" %}class="my-nav-current"{% endif %}><a href="#">Research</a></li>
-              <li {% if page.url == "/teaching/" %}class="my-nav-current"{% endif %}><a href="#">Teaching</a></li>
-              <li {% if page.url == "/publications/" %}class="my-nav-current"{% endif %}><a href="#">Publications</a></li>
-              <li {% if page.url == "/contact/" %}class="my-nav-current"{% endif %}><a href="#">Contact</a></li>
-            </ul>
+          <div>
+            <h1>Logo</h1>
           </div>
+          <input id="menu-toggle" type="checkbox" />
+          <label class='menu-button-container' for="menu-toggle">
+            <div class='menu-button'></div>
+          </label>
+          <ul class="menu">
+            <li {% if page.url == "/" %}class="my-nav-current"{% endif %}><a href="#">Home</a></li>
+            <li {% if page.url == "/research/" %}class="my-nav-current"{% endif %}><a href="#">Research</a></li>
+            <li {% if page.url == "/teaching/" %}class="my-nav-current"{% endif %}><a href="#">Teaching</a></li>
+            <li {% if page.url == "/publications/" %}class="my-nav-current"{% endif %}><a href="#">Publications</a></li>
+            <li {% if page.url == "/contact/" %}class="my-nav-current"{% endif %}><a href="#">Contact</a></li>
+          </ul>
         </div>
       </nav>
     </header>
