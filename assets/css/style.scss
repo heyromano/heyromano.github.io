@@ -66,10 +66,6 @@ a:hover {
 /* Nav */
 
 .top-nav {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
   background-color: #00BAF0;
   background: linear-gradient(to left, #f46b45, #eea849);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -80,6 +76,10 @@ a:hover {
 
 .my-nav {
   max-width: 1024px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .top-nav li {
