@@ -78,10 +78,13 @@ a:hover {
   padding: 1em;
 }
 
-.top-nav a {
+.top-nav li {
   font-family: 'Raleway', Helvetica, Arial, Verdana, sans-serif;
   font-size: 16px;
   font-weight: 400;
+}
+
+.top-nav a {
   color: #ffffff;
 }
 
