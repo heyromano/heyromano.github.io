@@ -197,6 +197,11 @@ a:hover {
 
 /* Responsive */
 
+@media all and (min-width: 769px) {
+  .my-content {
+    padding: 1em 2em;
+  }
+}
 @media all and (min-width: 1025px) {
   body {
     background-color: #f4f8fb;
