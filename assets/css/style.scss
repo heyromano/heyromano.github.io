@@ -93,6 +93,13 @@ a:hover {
   color: #ffffff;
 }
 
+.my-logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
 .my-logo img {
   width: 30px;
   height: 30px;
