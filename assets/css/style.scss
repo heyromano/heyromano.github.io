@@ -78,21 +78,6 @@ a:hover {
   padding: 1em;
 }
 
-.top-nav a {
-  font-family: 'Raleway', Helvetica, Arial, Verdana, sans-serif;
-  font-size: 18px;
-  font-weight: 400;
-  color: #ffffff;
-}
-
-/*
-.my-logo p {
-  margin: 0;
-  font-size: 28px;
-  font-weight: 800;
-}
-*/
-
 .menu {
   display: flex;
   flex-direction: row;
@@ -156,9 +141,7 @@ a:hover {
   transform: rotate(-405deg);
 }
 
-/* Responsive */
-
-@media all and (max-width: 1024px) {
+@media (max-width: 700px) {
   .menu-button-container {
     display: flex;
   }
@@ -198,6 +181,9 @@ a:hover {
     border-bottom: 1px solid #444;
   }
 }
+
+/* Responsive */
+
 @media all and (min-width: 769px) {
   .my-content {
     padding: 1em 2em;
