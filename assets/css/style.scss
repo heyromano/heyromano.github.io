@@ -87,6 +87,18 @@ a:hover {
     );
 }
 
+.my-burger, .my-menu {
+  visibility: hidden;
+  position: fixed;
+  top: 0;
+  left: -250px;
+  width: 200px;
+  height: 100%;
+  background-color: #3D0E61;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+
 
 
 
