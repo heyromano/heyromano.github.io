@@ -195,40 +195,17 @@ a:hover {
   }
 }
 
+/* Responsive */
 
-
-.my-nav-bar {
-  background-color: #321446;
-}
-
-.my-nav {
-  align-items: center;
-  margin: 1em 0;
+@media all and (min-width: 800px) {
+  body {
+    background-color: #f4f8fb;
+  }
   
-  line-height: 1em;
-}
-
-.my-nav h1 {
-  margin: 0 2em 0 0;
-}
-
-.my-nav ul {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: flex-end;
-  padding-left: 0;
-  list-style-type: none;
-}
-
-.my-nav li {
-  margin: 0;
-  padding: 0;
-}
-.my-nav li + li {
-  margin: 0;
-  padding: 0 0 0 1.75em;
-}
-
-.my-nav a:hover {
-  text-decoration: none;
+  .my-content {
+    padding: 2em;
+    background-color: #ffffff;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 5px;
+  }
 }
