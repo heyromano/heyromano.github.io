@@ -99,6 +99,11 @@ a:hover {
   box-sizing: border-box;
 }
 
+#hamburger-input:checked + .my-burger .my-menu {
+  visibility: visible;
+  left: 0;
+}
+
 
 
 
