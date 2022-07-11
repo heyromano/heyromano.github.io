@@ -71,7 +71,7 @@ a:hover {
 }
 
 .my-nav {
-  max-width: 1024px;
+  max-width: 1200px;
   margin: auto;
   display: flex;
   flex-direction: row;
@@ -109,7 +109,8 @@ a:hover {
 }
 
 .menu > li {
-  margin: 0 1rem;
+  /* margin: 0 1rem; */
+  margin: 0 0 0 2rem;
   overflow: hidden;
 }
 
