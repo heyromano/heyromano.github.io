@@ -229,6 +229,15 @@ a:hover {
   }
 }
 
+/* Content */
+
+.my-hero {
+  padding: 2em 4em;
+  border-radius: 5px;
+  background-color: #fed871;
+  color: #3b3830;
+}
+
 /* Responsive */
 
 @media all and (min-width: 768px) {
