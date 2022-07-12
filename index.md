@@ -9,9 +9,11 @@ layout: default
   </div>
 </div>
 
+<div class="my-hero">
 # Hi, I'm Michael!
-
+  
 I am a cognitive scientist with research interests in embodied social cognition and applied ethics. My interdisciplinary research spans modes of inquiry in philosophy, ethnography, experimental psychology, and cognitive modeling. I use distributed cognition as a theoretical approach for integrating across multiple units of analysis and levels of explanation.
+</div>
 
 Questions my research explores include:
 * How can we promote prosocial behavior in shared online spaces (e.g., social media, discussion forums, comment sections)?
