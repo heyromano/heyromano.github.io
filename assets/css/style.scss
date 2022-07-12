@@ -110,11 +110,12 @@ a:hover {
 }
 
 .my-icon {
-  width: 1ex;
-  height: 1ex;
+  margin-right: 5px;
+  width: 12px;
+  height: 12px;
   display: inline-block;
   background-color: #ff4e56;
-  vertical-align: -0.25ex;
+  vertical-align: middle;
 }
 
 .my-nav-current a {
