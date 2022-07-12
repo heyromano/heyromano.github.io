@@ -119,6 +119,10 @@ a:hover {
   background-color: #eff0ff;
 }
 
+.my-nav-current a {
+  color: #4a42ad;
+}
+
 .menu {
   display: flex;
   flex-direction: row;
