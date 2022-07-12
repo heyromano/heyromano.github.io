@@ -101,12 +101,20 @@ a:hover {
   text-decoration: none;
 }
 
-.my-logo p {
+.my-logo {
   margin: 0;
   font-family: 'Ubuntu', Helvetica, Arial, Verdana, sans-serif;
   font-size: 22px;
   font-weight: 700;
   line-height: 22px;
+}
+
+.my-icon {
+  width: 1ex;
+  height: 1ex;
+  display: inline-block;
+  background-color: salmon;
+  vertical-align: middle;
 }
 
 .my-nav-current a {
