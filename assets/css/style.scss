@@ -102,6 +102,10 @@ a:hover {
   align-items: center;
 }
 
+.my-logo-icon, .my-logo-text {
+  line-height: 50px;
+}
+
 .my-logo-icon img {
   width: 36px;
   height: 36px;
@@ -111,11 +115,10 @@ a:hover {
 
 .my-logo-text p {
   margin: 0;
-  padding: 14px 0;
   font-family: 'Raleway', Helvetica, Arial, Verdana, sans-serif;
   font-size: 22px;
-  line-height: 22px;
   font-weight: 800;
+  line-height: 22px;
 }
 
 .my-nav-current a {
