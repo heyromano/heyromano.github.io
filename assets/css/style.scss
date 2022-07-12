@@ -94,22 +94,20 @@ a:hover {
 }
 
 .my-logo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.my-logo-icon img {
+  width: 30px;
+  height: 30px;
+}
+
+.my-logo-text {
   font-family: 'Raleway', Helvetica, Arial, Verdana, sans-serif;
   font-size: 22px;
   font-weight: 800;
-  line-height: 22px;
-}
-
-.my-logo p {
-  margin: 0;
-}
-
-.my-icon {
-  display: inline-block;
-  width: auto;
-  height: 1.5em;
-  margin-right: 5px;
-  vertical-align: middle;
 }
 
 .menu {
