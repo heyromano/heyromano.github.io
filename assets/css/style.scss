@@ -93,20 +93,20 @@ a:hover {
   color: #ffffff;
 }
 
-.my-icon {
-  display: inline-block;
-  width: 30px;
-  height: 30px;
-  margin-right: 5px;
-  background-color: red;
-  vertical-align: middle;
-}
-
 .my-logo {
   margin: 0;
   font-family: 'Raleway', Helvetica, Arial, Verdana, sans-serif;
   font-size: 22px;
   font-weight: 800;
+}
+
+.my-icon {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin-right: 0;
+  background-color: red;
+  vertical-align: -.25ex;
 }
 
 .menu {
