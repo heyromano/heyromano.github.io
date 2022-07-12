@@ -11,7 +11,7 @@ layout: default
 
 <div class="my-hero">
   <h1>Hi, I'm Michael!</h1>
-  <h3>I am a cognitive scientist with research interests in embodied social cognition and applied ethics. My interdisciplinary research spans modes of inquiry in philosophy, ethnography, experimental psychology, and cognitive modeling. I use distributed cognition as a theoretical approach for integrating across multiple units of analysis and levels of explanation.</h3>
+  <p>I am a cognitive scientist with research interests in embodied social cognition and applied ethics. My interdisciplinary research spans modes of inquiry in philosophy, ethnography, experimental psychology, and cognitive modeling. I use distributed cognition as a theoretical approach for integrating across multiple units of analysis and levels of explanation.</p>
 </div>
 
 
