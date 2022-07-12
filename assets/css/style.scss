@@ -108,7 +108,7 @@ a:hover {
   display: inline-block;
   width: auto;
   height: 1em;
-  margin-right: 5px;
+  margin-right: 0;
   vertical-align: middle;
 }
 
@@ -177,6 +177,10 @@ a:hover {
 }
 
 @media (max-width: 1024px) {
+  .top-nav li {
+    font-size: 20px;
+  }
+  
   .menu-button-container {
     display: flex;
   }
