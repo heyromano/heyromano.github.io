@@ -234,6 +234,10 @@ a:hover {
 
 /* Content */
 
+.my-content img {
+  border-radius: 5px;
+}
+
 .my-hero {
   margin: 2em 0;
   padding: 2em 4em;
@@ -246,6 +250,10 @@ a:hover {
 /* Responsive */
 
 @media all and (min-width: 769px) {
+  .my-col-50 {
+    flex-basis: 48%;
+  }
+  
   .my-content {
     padding: 1em 2em;
   }
@@ -260,9 +268,5 @@ a:hover {
     background-color: #ffffff;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     border-radius: 0 0 5px 5px;
-  }
-  
-  .my-col-50 {
-    flex-basis: 48%;
   }
 }
